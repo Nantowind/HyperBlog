@@ -1,12 +1,12 @@
 body {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  color: pink;
+  color: darkcyan;
   font-size: 1.7rem;
 }
 .container {
   text-align: left;
-  color: black;
+
   width: 70%;
 
   border: 0.2rem solid gray;
@@ -17,17 +17,17 @@ body {
 .container h1 {
   font-size: 3rem;
 }
-.cabecera{
-    background-color: #33a;
-    color: white;
-    margin: 0;
-    padding: 0.5rem;
-    font-size: 1.7rem;
-    font-weight: bold;
-    box-shadow: 1px 1px 44px 0px rgba(26,38,79,0.72);
+.cabecera {
+  background-color: #33a;
+  color: white;
+  margin: 0;
+  padding: 0.5rem;
+  font-size: 1.7rem;
+  font-weight: bold;
+  box-shadow: 1px 1px 44px 0px rgba(26, 38, 79, 0.72);
 }
-.cabecera #tagConfianza{
-    font-size: 1.3rem;
-    font-weight: normal;
-    padding: 0 0 0 1rem;
+.cabecera #tagConfianza {
+  font-size: 1.3rem;
+  font-weight: normal;
+  padding: 0 0 0 1rem;
 }
